@@ -9,4 +9,5 @@ PLEASE NOTE THAT THIS WILL RUN ONLY IF YOU HAVE PYTHON AND SPARK ON YOUR SYSTEMS
 2. Then, we have a requirements.txt file, so open up the terminal and use pip install -r requirements.txt to download all requirements. 
 3. Navigate to the folder where you have cloned this repo into, and enter streamlit run app.py
 4. Viola! There's the website.
+
 Thanks for reading!
