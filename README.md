@@ -10,4 +10,6 @@ PLEASE NOTE THAT THIS WILL RUN ONLY IF YOU HAVE PYTHON AND SPARK ON YOUR SYSTEMS
 3. Navigate to the folder where you have cloned this repo into, and enter streamlit run app.py
 4. Viola! There's the website.
 
+Also, there's datasets in the data folder if you wanna test it out without searching for your own datasets. Have fun guys!
+
 Thanks for reading!
